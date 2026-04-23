@@ -2,9 +2,9 @@
 
 A simple and efficient web-based Study Planner application that helps students manage their daily tasks in an organized way.
 
-----------------------------------------------------------------------------------------------------------------
-                                                     _ ** Features**_
--------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+                                      _ ** Features**_
+-------------------------------------------------------------------------------------------------------
  **CRUD Operations**
 - Add new tasks  
 - Edit existing tasks  
@@ -29,7 +29,7 @@ A simple and efficient web-based Study Planner application that helps students m
  **Responsive UI**
 - Works perfectly on mobile, tablet, and desktop  
 
-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 ## Tech Stack
 
 - HTML5  
@@ -37,11 +37,11 @@ A simple and efficient web-based Study Planner application that helps students m
 - JavaScript (Vanilla JS)  
 - LocalStorage API  
 
------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
 ##  Purpose
 
 This project is built to improve productivity and help students manage study schedules in a simple and interactive way.
 
--------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
