@@ -44,4 +44,6 @@ A simple and efficient web-based Study Planner application that helps students m
 This project is built to improve productivity and help students manage study schedules in a simple and interactive way.
 
 -------------------------------------------------------------------------------------------------------
-
+##  Live Demo  
+ [Click Here](https://marvelous-baklava-5f0d32.netlify.app)
+--------------------------------------------------------------------------------------------------
